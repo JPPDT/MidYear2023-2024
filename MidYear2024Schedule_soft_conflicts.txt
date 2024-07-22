@@ -1,13 +1,14 @@
 ﻿Soft conflicts of MidYear2024Schedule.fet
-Generated with FET 6.22.1 on 7/22/24 11:25 AM
+Generated with FET 6.22.1 on 7/22/24 2:19 PM
 
-Number of broken soft constraints: 3
-Total soft conflicts: 2.85
+Number of broken soft constraints: 4
+Total soft conflicts: 3.8
 
 Soft conflicts list (in decreasing order):
 
-Time constraint min days between activities broken: activity with id=52 (    4/12 - Sharmaine M. Banate - EDUC 50 - Lectures - BSE-E 1-1) conflicts with activity with id=51 (4/12 -     Sharmaine M. Banate - EDUC 50 - Lectures - BSE-E 1-1), being 1 days too close, on days Monday and Monday, conflicts factor increase=0.95. The activities are placed consecutively in the timetable, because you selected this option in case the activities are on the same day
-Time constraint min days between activities broken: activity with id=76 (    4/12 - Gerry Mae T. Silvero - BSEM 21 - Lectures - BSEM 1-1) conflicts with activity with id=75 (4/12 -     Gerry Mae T. Silvero - BSEM 21 - Lectures - BSEM 1-1), being 1 days too close, on days Saturday and Saturday, conflicts factor increase=0.95. The activities are placed consecutively in the timetable, because you selected this option in case the activities are on the same day
+Time constraint min days between activities broken: activity with id=53 (    4/12 - Sharmaine M. Banate - EDUC 50 - Lectures - BSE-E 1-1) conflicts with activity with id=52 (    4/12 - Sharmaine M. Banate - EDUC 50 - Lectures - BSE-E 1-1), being 1 days too close, on days Tuesday and Tuesday, conflicts factor increase=0.95. The activities are placed consecutively in the timetable, because you selected this option in case the activities are on the same day
+Time constraint min days between activities broken: activity with id=76 (    4/12 - Gerry Mae T. Silvero - BSEM 21 - Lectures - BSEM 1-1) conflicts with activity with id=75 (4/12 -     Gerry Mae T. Silvero - BSEM 21 - Lectures - BSEM 1-1), being 1 days too close, on days Thursday and Thursday, conflicts factor increase=0.95. The activities are placed consecutively in the timetable, because you selected this option in case the activities are on the same day
 Time constraint min days between activities broken: activity with id=85 (    6/12 - Alex Feranil Jr - BSEE 30 - Lectures - BSE-E 2-2) conflicts with activity with id=84 (6/12 -     Alex Feranil Jr - BSEE 30 - Lectures - BSE-E 2-2), being 1 days too close, on days Saturday and Saturday, conflicts factor increase=0.95. The activities are placed consecutively in the timetable, because you selected this option in case the activities are on the same day
+Time constraint min days between activities broken: activity with id=96 (    6/12 - Ronnie C. Daef - BSEM 29 - Lectures - BSE-M 3-1) conflicts with activity with id=95 (6/12 -     Ronnie C. Daef - BSEM 29 - Lectures - BSE-M 3-1), being 1 days too close, on days Friday and Friday, conflicts factor increase=0.95. The activities are placed consecutively in the timetable, because you selected this option in case the activities are on the same day
 
 End of file.
